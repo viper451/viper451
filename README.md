@@ -1,7 +1,7 @@
 Hi 👋 My name is Farhan Shaikh
 ==============================
 
-Web Developer and Competetive Programmer
+
 ----------------------------------------
 
 * 🌍  I'm based in Mumbai
