@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **ReactJs**
 
-- 💬 Ask me about **MERN Stack,Competetive coding**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **farhan70413@gmail.com**
 
